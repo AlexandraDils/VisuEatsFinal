@@ -1,0 +1,49 @@
+/* NAVBAR */
+
+.navbar-light{
+    background: #00A8AC;
+}
+
+/* FOOTER */
+
+.main-footer{
+    background:#00A8AC;
+}
+
+p .footerText{
+    background: white;
+    width: 100%;
+}
+
+.card-img-top{
+  height: 20vh;
+  width: 100%;
+  object-fit: cover;
+}
+
+p{
+    color: #00A8AC;
+}
+
+h1{
+    color: #00A8AC;
+}
+
+h3{
+    color: #00A8AC;
+}
+
+h5{
+    color: #00A8AC;
+}
+
+
+
+.footerText{
+    color: white;
+}
+
+button{
+    color: #036669;
+}
+

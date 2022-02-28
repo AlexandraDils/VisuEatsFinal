@@ -1,0 +1,72 @@
+/* NAVBAR */
+
+.navbar-light{
+    background: #00A8AC;
+}
+
+/* FOOTER */
+
+.main-footer{
+    background:#00A8AC;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.menuNav {
+    margin-top: 160px;
+}
+
+#logo1 {
+    width: 20px;
+    height: 20px;
+    padding:  10px;
+
+}
+
+img { 
+    width:  100% !important;
+}
+
+
+.break-out {
+    width: 100vh;
+    position: relative;
+    left: calc(-1 * (100vh - 100%) / 2);
+}
+
+div.scrollmenu {
+
+  background-color: #CEE7E9;
+  overflow: auto;
+  white-space: nowrap;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: #00A8AC;
+  list-style: none;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.scrollmenu li {
+    text-align: center;
+}
+
+div.scrollmenu a:hover {
+  background-color: #B2D234;
+  text-align: center;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 10px 8%;
+}
